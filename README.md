@@ -90,7 +90,7 @@ Docker development implementation for Laravel 10.\* with:
 - Generate key: `php artisan key:generate`
 - Run migration: `php artisan migrate`
 - Run seeder: `php artisan db:seed`
-- Run seeder: `php artisan run serve`
+- Run seeder: `php artisan serve`
 - You can access the project at: `http://127.0.0.1:8000`
 - If encounter error about logs run: `sudo chmod -R 777 storage/`
 
